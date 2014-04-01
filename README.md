@@ -1,6 +1,8 @@
 Laravel 4.1 German Slug
 ========
 
+[![Build Status](https://travis-ci.org/pafelin/laravel4-german-slug.svg?branch=master)](https://travis-ci.org/pafelin/laravel4-german-slug)
+
 Installation
 -------
 You should install this package through Composer.
